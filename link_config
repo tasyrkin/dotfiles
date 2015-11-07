@@ -1,0 +1,8 @@
+
+bash_config/.bashrc               :     ~
+bash_config/.goto-config.sh       :     ~
+bash_config/.git-config.sh        :     ~
+bash_config/.git-completion.sh    :     ~
+
+scripts/lsjar.sh                  :     /usr/local/bin
+scripts/logging.sh                :     /usr/local/bin
