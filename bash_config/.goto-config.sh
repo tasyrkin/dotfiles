@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Specify parent directories where the gogo scripts fetches data from
+#Specify parent directories where the goto scripts fetches data from
 #GOTO_PARENT_DIRECTORIES=(~/Projects)
 #Specify prefixes to exclude from names
 #GOTO_REMOVE_PREFIXES=("zeos-" "zalando-")
