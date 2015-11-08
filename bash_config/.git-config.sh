@@ -12,4 +12,4 @@ PS1='\u@\h:\w\[\e[0;32m\]$(parse_git_branch)\[\e[0m\]\$ '
 
 . ~/.git-completion.sh
 
-alias git-show-graph='git log --pretty=oneline --graph --decorate --all'
+alias git-graph='git log --pretty=oneline --graph --decorate --all'
